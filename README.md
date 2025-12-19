@@ -1,4 +1,4 @@
-# Projek Sistem Absensi (Nama Projek)
+# Projek Sistem Absensi (Baris ini isi dengan Nama Projek)
 Projek untuk buat sistem Absensi menggunakan Bahahasa Pemrograman Python
 
 ## Nama-Nama Kontributor
